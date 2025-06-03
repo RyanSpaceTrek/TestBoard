@@ -1,1 +1,48 @@
 
+{
+  "packages": [
+    {
+      "name": "SpaceTrek",
+      "maintainer": "RyanSpaceTrek",
+      "websiteURL": "https://github.com/RyanSpaceTrek/TestBoard/",
+      "email": "", // Optional: Add your email here
+      "platforms": [
+        {
+          "name": "SpaceTrek ESP32 Custom Boards",
+          "architecture": "esp32",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "url": "https://RyanSpaceTrek.github.io/TestBoard/SpaceTrek_esp32_dev_module-1.0.0.zip",
+          "archiveFileName": "SpaceTrek_esp32_dev_module-1.0.0.zip",
+          "checksum": "SHA-256:C8049A652BEA031B891ADF2A095AF90E19964BEA9517C52DEB6F2381B637DD41",
+          "size": "2744",
+          "help": {
+            "online": "https://github.com/RyanSpaceTrek/TestBoard/"
+          },
+          "boards": [
+            // Consider making this name more unique, e.g., "ESP32 Dev Module (SpaceTrek)"
+            { "name": "ESP32 Dev Module" }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "esp32",
+              "name": "xtensa-esp32-elf-gcc",
+              "version": "esp-2021r2-patch5-8.4.0"
+            },
+            {
+              "packager": "esp32",
+              "name": "esptool_py",
+              "version": "4.5.1"
+            },
+            {
+              "packager": "esp32",
+              "name": "mkspiffs",
+              "version": "0.2.3"
+            }
+          ]
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
