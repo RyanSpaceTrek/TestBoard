@@ -2,19 +2,19 @@
   "packages": [
     {
       "name": "SpaceTrek",
-      "maintainer": "RyanSpaceTrek", 
+      "maintainer": "RyanSpaceTrek",
       "websiteURL": "https://github.com/RyanSpaceTrek/TestBoard/",
-      "email": "ryan.bori@spacetrek.com", 
+      "email": "ryan.bori@spacetrek.com",
       "platforms": [
         {
           "name": "SpaceTrek ESP32 Custom Boards",
           "architecture": "esp32",
-          "version": "1.0.0", 
+          "version": "1.0.0",
           "category": "Contributed",
           "url": "https://RyanSpaceTrek.github.io/TestBoard/SpaceTrek_esp32_dev_module-1.0.0.zip", 
-          "archiveFileName": "SpaceTrek_esp32_dev_module-1.0.0.zip",
-          "checksum": "SHA-256:324658AF2B37389352F68CD1E0881CBC4EC8F33CB790C551B6B5675CCF7119C1",
-          "size": "2978",
+          "archiveFileName": "SpaceTrek_esp32_dev_module-1.0.0.zip", 
+          "checksum": "SHA-256:C2BEE30F51F465E4E3634448A5CA09B22822A6CC04377C7D554BF3D4412D4E3F",
+          "size": "3256",
           "help": {
             "online": "https://github.com/RyanSpaceTrek/TestBoard/"
           },
