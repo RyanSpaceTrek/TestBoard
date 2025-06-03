@@ -5,7 +5,7 @@
       "name": "SpaceTrek",
       "maintainer": "RyanSpaceTrek",
       "websiteURL": "https://github.com/RyanSpaceTrek/TestBoard/",
-      "email": "", // Optional: Add your email here
+      "email": "ryan.bori@spacetrek.com",
       "platforms": [
         {
           "name": "SpaceTrek ESP32 Custom Boards",
@@ -20,8 +20,7 @@
             "online": "https://github.com/RyanSpaceTrek/TestBoard/"
           },
           "boards": [
-            // Consider making this name more unique, e.g., "ESP32 Dev Module (SpaceTrek)"
-            { "name": "ESP32 Dev Module" }
+            { "name": "ESP32 Dev Module (SpaceTrek)" }
           ],
           "toolsDependencies": [
             {
