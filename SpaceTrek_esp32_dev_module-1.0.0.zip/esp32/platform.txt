@@ -1,2 +1,0 @@
-name=My Custom ESP32 Dev Platform
-version=1.0.0
