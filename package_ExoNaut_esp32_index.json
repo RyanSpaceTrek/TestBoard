@@ -16,7 +16,7 @@
           "checksum": "SHA-256:CB3C64E6A872081E04552599520E2A3BCFF8440EF13BF176CD7416ABC6F5A223",
           "size": "32402540",
           "help": {
-            "online": "https://RyanSpaceTrek.github.io/TestBoard/"
+            "online": "https://github.com/RyanSpaceTrek/TestBoard/"
           },
           "boards": [
             { "name": "ESP32 Dev Module (ExoNaut)" }
